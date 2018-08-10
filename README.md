@@ -42,7 +42,8 @@ You should be able to run *react-native run-android* to run this application on 
 
 ## Two. Step 2
 cd to project folder where your files are (android, ios, node_modules, etc... files)
-try to run (FOR ANDROID, PLEASE CHANGE YOUR ANDROID.MANIFEST GEOLOCATION API)
+try to run
+#### Note. (FOR ANDROID, PLEASE CHANGE YOUR ANDROID.MANIFEST GEOLOCATION API)
 1) *react-native run-android [ANDROID]*
 2) *react-native run-ios [ios]*
 ### *if the project cannot be built, follow steps below*
