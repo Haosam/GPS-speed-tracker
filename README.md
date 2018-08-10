@@ -9,6 +9,7 @@ This is a react native project that uses GPS to track your location and adds mar
 3. Install Haversine
 4. Ready-to-go
 
+# Part A
 ## 1. React Native Application Init
 I assume you have installed React Native on your working device, otherwise, please follow this [documentation](https://facebook.github.io/react-native/docs/getting-started.html)
 I am working on Native code, so we will not require expo
@@ -27,6 +28,9 @@ If you are using Android, please **EDIT** the Google API section in the Manifest
 
 You should be able to run *react-native run-android* to run this application on your phone thereafter
 
+
+
+# Part B
 # For those with a full code modules, follow this.
 
 ## One. Step 1
@@ -46,12 +50,12 @@ if an project cannot be built, follow steps below
 
 ### Two. 2.1. For project without react-native-maps (follow this - Speedchecker)
 cd to project folder 
-Follow Step 1 to Step 4 above. Step 2 can be skipped for this project.
+Follow Part A Step 1 to Step 4 above. Step 2 can be skipped for this project.
 Copy files attached to this github to your project.
 
 ### Two. 2.2. For project with react-native-maps (follow this - Speedometer)
 cd to project folder
-Follow Step 1 to Step 4 exactly
+Follow part A Step 1 to Step 4 exactly
 
 ## Three. Step 3
 Run
