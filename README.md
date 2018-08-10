@@ -46,7 +46,7 @@ try to run
 FOR ANDROID, PLEASE CHANGE YOUR ANDROID.MANIFEST GEOLOCATION API
 1) *react-native run-android [ANDROID]*
 2) *react-native run-ios [ios]*
-*if an project cannot be built, follow steps below*
+###*if the project cannot be built, follow steps below*
 
 ### Two. 2.1. For project without react-native-maps (follow this - Speedchecker)
 cd to project folder 
