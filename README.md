@@ -34,11 +34,11 @@ You should be able to run *react-native run-android* to run this application on 
 # For those with a full code modules, follow this.
 
 ## One. Step 1
--Copy files to a new folder named React_Project
--Enter command prompt as ADMINISTRATOR
--paste this code to install react native onto your operating system
+1) Copy files to a new folder named React_Project
+2) Enter command prompt as ADMINISTRATOR
+3) paste this code to install react native onto your operating system
 ->> npm install -g create-react-native-app
--Follow this [documentation](https://facebook.github.io/react-native/docs/getting-started.html) under the link [BUILDING PROJECTS UNDER NATIVE CODE]
+4) Follow this [documentation](https://facebook.github.io/react-native/docs/getting-started.html) under the link [BUILDING PROJECTS UNDER NATIVE CODE]
 
 ## Two. Step 2
 cd to project folder where your files are (android, ios, node_modules, etc... files)
