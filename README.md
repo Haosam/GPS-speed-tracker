@@ -19,8 +19,44 @@ We will be using the react-native-maps that has been created by Airbnb as the Ma
 
 ## 3. Install Haversine
 Installation of Haversine is required for this application as it will help us do the distance calculation.
+npm haversine
+For more [Info](https://www.npmjs.com/package/haversine)
 
 ## 4. Ready-to-go
 If you are using Android, please **EDIT** the Google API section in the Manifest.xml file i have added to this repo
 
 You should be able to run *react-native run-android* to run this application on your phone thereafter
+
+# For those with a full code modules, follow this.
+
+## One. Step 1
+Copy files to a new folder named React_Project
+Enter command prompt as ADMINISTRATOR
+paste this code to install react native onto your operating system
+->> npm install -g create-react-native-app
+Follow this [documentation](https://facebook.github.io/react-native/docs/getting-started.html) under the link [BUILDING PROJECTS UNDER NATIVE CODE]
+
+## Two. Step 2
+cd to project folder where your files are (android, ios, node_modules, etc... files)
+try to run
+FOR ANDROID, PLEASE CHANGE YOUR ANDROID.MANIFEST GEOLOCATION API
+1) *react-native run-android [ANDROID]*
+2) *react-native run-ios [ios]*
+if an project cannot be built, follow steps below
+
+### Two. 2.1. For project without react-native-maps (follow this - Speedchecker)
+cd to project folder 
+Follow Step 1 to Step 4 above. Step 2 can be skipped for this project.
+Copy files attached to this github to your project.
+
+### Two. 2.2. For project with react-native-maps (follow this - Speedometer)
+cd to project folder
+Follow Step 1 to Step 4 exactly
+
+## Three. Step 3
+Run
+1) *react-native run-android [ANDROID]*
+2) *react-native run-ios [ios]*
+
+This build was built on Android. Maps might not function correctly for iOS due to certain dependencies. Please check again on iOS map dependencies**
+For full React Native Tutorial please visit [this youtube link](https://www.youtube.com/sonbuideveloper)
