@@ -11,7 +11,7 @@ This is a react native project that uses GPS to track your location and adds mar
 4. Ready-to-go
 ```
 
-# Part A
+# Installation -  Part A (Files Downloaded from this repo)
 ## 1. React Native Application Init
 I assume you have installed React Native on your working device, otherwise, please follow this [documentation](https://facebook.github.io/react-native/docs/getting-started.html)
 I am working on Native code, so we will not require expo
@@ -39,7 +39,7 @@ You should be able to run *react-native run-android* to run this application on 
 
 
 
-# Part B
+# Installation - Part B (Files obtained from me directly)
 ## For those with a full code modules, follow this.
 
 ## One. Step 1
